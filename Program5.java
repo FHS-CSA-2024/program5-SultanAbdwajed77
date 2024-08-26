@@ -19,7 +19,7 @@ public class Program5 {
         String vehicle4 = "Badwagon";
         int miles4 = 161;
         int gallons4 = 11;
-        double BadwagonAvg = 0.0;
+        double BandwagonAvg = 0.0;
 
         
         double RoyaleAvg = (double) miles1 / gallons1;
