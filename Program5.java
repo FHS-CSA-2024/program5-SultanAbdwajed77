@@ -22,10 +22,10 @@ public class Program5 {
         double BandwagonAvg = 0.0;
 
         
-        double RoyaleAvg = (double) miles1 / gallons1;
-        double KoopaKingAvg = (double) miles2 / gallons2;
-        double PipeFrameAvg = (double) miles3 / gallons3;
-        double BandwagonAvg = (double) miles4 / gallons4;
+        RoyaleAvg = (double) miles1 / gallons1;
+        KoopaKingAvg = (double) miles2 / gallons2;
+        PipeFrameAvg = (double) miles3 / gallons3;
+        BandwagonAvg = (double) miles4 / gallons4;
 
 
         RoyaleAvg = ((int)((RoyaleAvg*10)+0.5))/10.0;
