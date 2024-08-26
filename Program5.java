@@ -1,5 +1,5 @@
 //import stuff here?
-public class VehicleMPGCalculator {
+public class Program5 {
     public static void main(String[] args) {
         String vehicle1 = "Royale";
         int miles1 = 286;
